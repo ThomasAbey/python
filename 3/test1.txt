@@ -1,0 +1,10 @@
+Hello
+Good Morning
+Welcome to Python Lab 
+Thank You.
+
+Hello
+Good Morning
+Welcome to Python Lab 
+Thank You.
+
